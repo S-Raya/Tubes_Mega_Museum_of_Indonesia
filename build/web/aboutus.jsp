@@ -164,32 +164,32 @@
     <main>
         <div class="profile jonson">
             <img src="Gambar/Johnson.png" alt="Johnson Dharma Leman">
-            <p>Nama saya Johnson Dharma Leman, di sini saya sebagai Jungle Lancelot sing sing sing.</p>
+            <p>Nama saya Johnson Dharma Leman, di sini saya bertanggung jawab atas fitur Buy Online Ticket.</p>
         </div>
 
         <div class="profile maziyah">
             <img src="Gambar/Maziyah.jpg" alt="Maziyah Nurul Huda Agustina">
-            <p>Nama saya Maziyah Nurul Huda Agustina, di sini saya sebagai Mage Mid Lane.</p>
+            <p>Nama saya Maziyah Nurul Huda Agustina, di sini saya bertanggung jawab atas fitur Article.</p>
         </div>
 
         <div class="profile akmal">
             <img src="Gambar/Akmal.jpg" alt="Muhamad Akmal Insan">
-            <p>Nama saya Muhamad Akmal Insan, di sini saya sebagai Puncak Rantai Makanan.</p>
+            <p>Nama saya Muhamad Akmal Insan, di sini saya bertanggung jawab atas fitur Profil & List Ticket.</p>
         </div>
 
         <div class="profile raya">
             <img src="Gambar/Raya.jpg" alt="Sutan Raya Dharma Namanika">
-            <p>Nama saya Sutan Raya Dharma Namanika, di sini saya sebagai Pembalap.</p>
+            <p>Nama saya Sutan Raya Dharma Namanika, di sini saya bertanggung jawab atas fitur Top Up & Verification Top Up.</p>
         </div>
 
         <div class="profile tyas">
             <img src="Gambar/Tyas.jpg" alt="Retno Cahyaningtyas">
-            <p>Nama saya Retno Cahyaningtyas, di sini saya sebagai Jawa.</p>
+            <p>Nama saya Retno Cahyaningtyas, di sini saya bertanggung jawab atas fitur Object.</p>
         </div>
 
         <div class="profile dani">
             <img src="Gambar/Dani.jpg" alt="Ramadani Saputra">
-            <p>Nama saya Ramadani Saputra, di sini saya sebagai Jawa (Jaga Warteg).</p>
+            <p>Nama saya Ramadani Saputra, di sini saya bertanggung jawab atas fitur Register, Log In, dan Log Out.</p>
         </div>
     </main>
     
